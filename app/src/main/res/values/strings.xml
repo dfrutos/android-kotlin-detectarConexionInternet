@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetectarConexionInternet</string>
+    <string name="testear_conexi_n_a_internet">Testear Conexión a Internet</string>
+</resources>
